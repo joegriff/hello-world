@@ -1,3 +1,3 @@
-# GOODBYE-world!
+# GOODBYE-world
 it's a just a tiny thing...
 
